@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TanmayKumar005/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/TanmayKumar005/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TanmayKumar005/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
@@ -14,4 +15,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TanmayKumar005/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/TanmayKumar005/LeetCode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/TanmayKumar005/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
